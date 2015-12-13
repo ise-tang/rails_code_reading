@@ -1,5 +1,11 @@
 source 'https://rubygems.org'
 
+# debug用
+gem 'pry'
+
+# stackを表示
+gem 'pry-stack_explorer'
+
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.1.11'
