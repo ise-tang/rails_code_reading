@@ -2,6 +2,7 @@ source 'https://rubygems.org'
 
 # debug用
 gem 'pry'
+gem 'pry-byebug'
 
 # stackを表示
 gem 'pry-stack_explorer'
